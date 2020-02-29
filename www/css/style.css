@@ -1,0 +1,36 @@
+/* Empty. Add your own CSS if you like */
+.espaciado{
+	background-color: 
+	-webkit-background-size:cover;
+	-o-background-size;
+	-webkit-background-size;
+	height:700px;
+	padding-top:100px;
+	padding-left:10%;
+	width:700px;
+	border-width:200px; 
+	color: white;
+}
+.letra{
+
+	color: white;
+
+}
+
+.espaciado {
+	padding-left: 5%;
+	padding-top: 10%;
+
+}
+
+.espaciado2{
+	padding-right: 5%;
+}
+
+.negro {
+	background-color: black;
+	height: 450px;
+	width: 500px;
+	position: absolute;
+
+}

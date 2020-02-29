@@ -1,0 +1,22 @@
+<ion-view view-title="Dashboard">
+  <ion-content class="padding">
+
+      <div class="container-fluid body">
+                 <div class="row espaciado">
+                     <div class="col-md-4 espaciado negro">
+                        <h4><div class="letra">INGRESA AQUI </div></h4>
+                         <div class="letra">Ingresa tu correo electronico:</div>
+                         <br>
+                         <input class="espaciado2" type="text" name="" ng-model="usuario.correo">
+                         <br>
+                         <br>
+                         <div class="letra">Ingresa tu contraseña:</div>
+                         <br>
+                         <input type="password" name="" ng-model="usuario.contrasena">
+
+                      <button ng-click="registrar(usuario)">REGISTRAR</button>
+                     </div>
+                 </div>
+             </div>
+  </ion-content>
+</ion-view>
